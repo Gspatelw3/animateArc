@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+svg {
+    width: 150px;
+    height: 150px;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 308%;
+}
